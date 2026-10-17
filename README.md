@@ -46,4 +46,4 @@ Contact
 Richard Scholtés - scholtesriso@gmail.com
 Prešov, Slovakia
 
-Discovery made on mobile phone at 00:24 CEST, 59% battery, after filtering false alias 16.7 d.
+Discovery made on mobile phone CEST, after filtering false alias 16.7 d.
